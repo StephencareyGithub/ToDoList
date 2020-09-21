@@ -1,0 +1,32 @@
+﻿body {
+}
+
+
+.ToDoMainTable {
+    width: 100%;
+    position: relative;
+    align-content: center;
+}
+
+
+.MainTableSideCollumns{
+    width:25%;
+}
+
+.MainLables{
+    font-size:40px;
+}
+
+.BorderTable{
+    width:100%;
+    height:100px;
+}
+
+.EditTable{
+    width:100%;
+    height:300px;
+}
+
+.MainTableSideCollumnsWithButton {
+    width: 40%;
+}
